@@ -157,7 +157,6 @@
     <Content Include="files\LoremIpsum.doc" />
     <Content Include="files\LoremIpsum.pdf" />
     <Content Include="files\SampleSheet.xls" />
-    <None Include="Project_Readme.html" />
     <Content Include="Views\DemoPrintFile\Index.cshtml" />
     <Content Include="Views\DemoPrintCommands\Index.cshtml" />
     <Content Include="Views\Home\samples.cshtml" />
